@@ -12,6 +12,8 @@ fun isPrime(number: Int): Boolean {
 }
 
 fun main() {
+
+    // Perintah memasukkan bilangan
     print("Masukkan sebuah bilangan: ")
     val input = readLine()
     if (input != null) {
